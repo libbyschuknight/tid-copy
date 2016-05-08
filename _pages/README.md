@@ -1,3 +1,9 @@
+---
+layout: page
+title: TID/TIL
+permalink: /home/
+---
+
 # tid_til
 > Today I Did & Today I Learnt
 
@@ -22,6 +28,7 @@ There are many terms in coding/development/computer science that I don't know yo
 - [Work Flow](work_flow.md)
 
 ---
+
 ## Links
 
 Good sites for learning markdown - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Markdown Cheatsheet
@@ -38,6 +45,7 @@ I have copied this idea from [thoughtbot/til](https://github.com/thoughtbot/til)
 
 
 ---
+
 #### API stuff
 - [General](api_stuff/general.md)
 

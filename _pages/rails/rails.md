@@ -1,3 +1,9 @@
+---
+layout: page
+title: Rails
+permalink: /rails/
+---
+
 # Rails
 
 To run rails server not on default port

@@ -1,3 +1,9 @@
+---
+layout: page
+title: New Rails
+permalink: /new_rails/
+---
+
 # Creating a New Rails app
 
 The steps I follow to create a new rails app - from https://github.com/roa-2015/shopping_cart_example (private repo)
