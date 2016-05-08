@@ -13,7 +13,7 @@ description: >
   As well as [meet ups, courses, conferences](courses_etc.md) and other things I have been too.
   Plus [questions](questions.md) that come up for me as I am coding. The aim will be to overtime, answer these!
   There are many terms in coding/development/computer science that I don't know you, so there is also a [terms](terms.md) section.
-baseurl: "tid_til" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://libbyschuknight.github.io"
 twitter_username: schuknight
 github_username:  libbyschuknight
